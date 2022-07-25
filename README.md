@@ -16,7 +16,6 @@ This course will provide aspiring and practicing teachers with a deeper knowledg
 - - -
 
 # Methods Class
-
 ## Class Introduction:
 Familiarizes teachers, grades with pedagogical approaches and innovative teaching techniques needed to convey to a diverse population emerging state and professional standards-based curriculum in computer science. Innovative uses of technology, development of instructional units, individualizing for a diverse population of students, and strategies for managing problem behavior will be emphasized throughout the course.
 
